@@ -10,10 +10,11 @@ title: GitHub Basics
 ## Agenda for today
 * Concepts
 * Practice
-   * [Link for practice](https://pages.18f.gov/hourofcode/)
+   * Three guided walkthrough activities
+   * [Separate Practice Activity](https://pages.18f.gov/hourofcode/)
 * Reference Materials
 * The slides are navigated both Left/Right and Up/Down (see bottom right of screen)
-* Link to slides: [https://pages.18f.gov/slides/github-basics](https://pages.18f.gov/slides/github-basics)
+* Permanent link to slides: [https://pages.18f.gov/slides/github-basics](https://pages.18f.gov/slides/github-basics)
 ---
 # Concepts
 ---
