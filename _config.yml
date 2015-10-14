@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Slide decks for 18F [Consulting]!
 
 baseurl: "/slides"
-url: "https://18f.github.io"
+url: "https:/CFABrigadePhiladelphia.github.io"
 
 # Build settings
 markdown: kramdown
