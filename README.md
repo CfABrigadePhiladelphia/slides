@@ -10,8 +10,6 @@
  #####  #####  #      #        ####  ###### # #####  ######  ####  
                                                                    
 ```
-
-```
 # Why 18F/slides
 
 You should use 18F/slides if you:
