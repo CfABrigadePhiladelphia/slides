@@ -46,3 +46,10 @@ To use 18F/slides:
 # How can I make it better?
 
 See [CONTRIBUTING.md](https://github.com/18F/slides/blob/gh-pages/CONTRIBUTING.md).
+
+# Notes on Forking (incomplete)
+Ideally this will give instructions for how to fork Slides to work for your organization
+
+1. Fork!
+2. Edit _config.yml, modify title/email and - critically - the "url" field.
+3. TODO: Replacing logo, editing CSS
