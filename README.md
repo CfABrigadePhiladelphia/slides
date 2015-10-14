@@ -10,6 +10,8 @@
  #####  #####  #      #        ####  ###### # #####  ######  ####  
                                                                    
 ```
+
+```
 # Why 18F/slides
 
 You should use 18F/slides if you:
@@ -52,4 +54,5 @@ Ideally this will give instructions for how to fork Slides to work for your orga
 
 1. Fork!
 2. Edit _config.yml, modify title/email and - critically - the "url" field.
+3. Get a cup of coffee (or tea if you prefer) - Github Pages is working behind the scenes for your initial setup,  and if you try to actually view your slides right away, you'll probably get a 404. It sometimes takes 5-10 minutes; once it's set up initially, changes take effect pretty much immediately.
 3. TODO: Replacing logo, editing CSS
