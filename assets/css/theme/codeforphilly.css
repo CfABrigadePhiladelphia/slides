@@ -13,6 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal .logo {
   position: fixed;
   height: 101px;
+  width: 613px;
   z-index: 30;
   left: 10px;
   top: 10px;
