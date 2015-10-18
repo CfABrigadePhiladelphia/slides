@@ -1,12 +1,12 @@
 # Site settings
-title: 18FC Slides
-email: vladlen.zvenyach@gsa.gov
+title: Code for Philly Slides
+email: ben@codeforphilly.org
 
 description: > # this means to ignore newlines until "baseurl:"
-  Slide decks for 18F [Consulting]!
+  Slide decks for Code for Philly!
 
 baseurl: "/slides"
-url: "https:/CFABrigadePhiladelphia.github.io"
+url: "https://CfABrigadePhiladelphia.github.io"
 
 # Build settings
 markdown: kramdown
